@@ -20,7 +20,6 @@ The project combines C for computation-intensive operations and Python for user 
 - `spkmeans.h`: Header file for function declarations.
 - `setup.py`: Python setup file for building the C extension.
 - `Makefile`: Script to compile the C executable (`spkmeans`).
-- Additional `.c`/`.h` files (optional): Modularized C code, if needed.
 
 ---
 
