@@ -87,7 +87,6 @@ python3 spkmeans.py 3 spk input_1.txt
 
 ## Error Handling
 If any error occurs (e.g., memory allocation issues), the program will print:
-```
 An Error Has Occurred
 
 and terminate.
@@ -97,5 +96,4 @@ and terminate.
 ## References
 - Ulrike Von Luxburg, *A tutorial on spectral clustering*, *Statistics and Computing*, 17(4):395–416, 2007.
 
----
 
